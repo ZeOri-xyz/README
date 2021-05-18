@@ -19,10 +19,9 @@
 
 ### Information About Me:
 - 🌀 I'm JS & Lua Developer, currently working on <strong>RedAlert Bot, And NostraDM (FiveM Server)</strong>🔫.
-- 🌱 I’m currently learning <strong>Assembly & IT Cyber Security</strong> 🐱‍💻.
-- 👯 I’m collaborating with other developers and kids. 😂
-- 📬 How to reach me: <strong>kosta#1484</strong> 📞.
-- 💬 Ask me about anything!
+- 👬 I'm working with the biggest YouTubers in Israel, and Editor. 🎥
+- 📬 For inquiries through Discord: <strong>ZeOri#6411</strong> 🌠.
+- <a href="https://zeori.xyz"> Click here to get redirected to my website </a> 🗃️
 - ⚡ Fun fact: Never try to make me a <i>joke.</i> 🤡
 - <a href="https://www.youtube.com/watch?v=R8U2ElYYChs"> Click Here to learn more about me </a> 🗃️
 
