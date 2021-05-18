@@ -22,8 +22,7 @@
 - 👬 I'm working with the biggest YouTubers in Israel, and Editor. 🎥
 - 📬 For inquiries through Discord: <strong>ZeOri#6411</strong> 🌠.
 - <a href="https://zeori.xyz"> Click here to get redirected to my website </a> 🗃️
-- ⚡ Fun fact: Never try to make me a <i>joke.</i> 🤡
-- <a href="https://www.youtube.com/watch?v=R8U2ElYYChs"> Click Here to learn more about me </a> 🗃️
+- ⭐ ZeOri | Developer Since <strong>2015</strong>
 
 ### ____________________________________________________________________________________________________________________
 <br>
