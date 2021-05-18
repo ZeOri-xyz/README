@@ -8,6 +8,10 @@
  <div align="center">
   <img align="right" height="270px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c6c2f0826f3a8e097d828541b2e87f38-1606936637/(29)/make-you-a-banner-for-your-osu-profile.gif" />
   </div>
+   <p align="center">
+    <img align="center" alt="visitors" src=https://gpvc.arturio.dev/ZeOri-xyz" />
+</p>
+
   
   ### ____________________________________________________________________________________________________________________
 
@@ -22,10 +26,6 @@
 
 ### ____________________________________________________________________________________________________________________
 <br>
-
- <p align="center">
-    <img align="center" alt="visitors" src=https://gpvc.arturio.dev/ZeOri-xyz" />
-</p>
 
 
 # Most Used Languages.
