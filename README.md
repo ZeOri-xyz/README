@@ -11,7 +11,7 @@
 
  
  <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://res.cloudinary.com/lifeonair/image/upload/h_300,w_300,dpr_1/v1620207066/stella-prod-up-601f13ab9953831ff60d7ab2" />
+  <img align="right" height="270px" alt="GIF" src="https://cdn.mee6.xyz/guild-images/500355397903843348/3ecb4e1ff44c05d6696986675292fb27f7ea4dbd5fe087a38b3bb65cd815dd08.png" />
 
 
   
