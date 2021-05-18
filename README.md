@@ -17,8 +17,8 @@
   
   ### ____________________________________________________________________________________________________________________
 
-### I am a Developer
-- 🔭 I’m currently working on <strong>Dream Deathmatch</strong>💀.
+### Information About Me:
+- 🌀 I'm JS & Lua Developer, currently working on <strong>RedAlert Bot, And NostraDM (FiveM Server)</strong>🔫.
 - 🌱 I’m currently learning <strong>Assembly & IT Cyber Security</strong> 🐱‍💻.
 - 👯 I’m collaborating with other developers and kids. 😂
 - 📬 How to reach me: <strong>kosta#1484</strong> 📞.
