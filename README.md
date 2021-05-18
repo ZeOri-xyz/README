@@ -9,9 +9,6 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ZeOri-xyz" />
 </p>
 
- 
- <div align="center">
-  <img align="right" height="50px" alt="GIF" src="https://66.media.tumblr.com/fccf661781e73082fd7d10d0cf272fa5/tumblr_ouhdpzUmXM1wojp74o1_400.gif" />
 
 
   
