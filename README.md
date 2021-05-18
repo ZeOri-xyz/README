@@ -27,6 +27,3 @@
 ### ____________________________________________________________________________________________________________________
 <br>
 
-
-# Most Used Languages.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSTA51&show_icons=true&hide_border=true&theme=radical)]()
