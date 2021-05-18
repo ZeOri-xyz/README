@@ -5,10 +5,6 @@
    </h6>
 </p>
  
- <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/KOSTA51" />
-</p>
-
  <div align="center">
   <img align="right" height="270px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c6c2f0826f3a8e097d828541b2e87f38-1606936637/(29)/make-you-a-banner-for-your-osu-profile.gif" />
   </div>
@@ -26,6 +22,11 @@
 
 ### ____________________________________________________________________________________________________________________
 <br>
+
+ <p align="center">
+    <img align="center" alt="visitors" src=https://gpvc.arturio.dev/ZeOri-xyz" />
+</p>
+
 
 # Most Used Languages.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSTA51&show_icons=true&hide_border=true&theme=radical)]()
