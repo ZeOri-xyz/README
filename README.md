@@ -11,7 +11,7 @@
 
  
  <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://cdn.mee6.xyz/guild-images/500355397903843348/3ecb4e1ff44c05d6696986675292fb27f7ea4dbd5fe087a38b3bb65cd815dd08.png" />
+  <img align="right" height="270px" alt="GIF" src="https://66.media.tumblr.com/fccf661781e73082fd7d10d0cf272fa5/tumblr_ouhdpzUmXM1wojp74o1_400.gif" />
 
 
   
