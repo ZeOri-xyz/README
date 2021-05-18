@@ -11,7 +11,7 @@
 
  
  <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c6c2f0826f3a8e097d828541b2e87f38-1606936637/(29)/make-you-a-banner-for-your-osu-profile.gif" />
+  <img align="right" height="270px" alt="GIF" src="https://res.cloudinary.com/lifeonair/image/upload/h_300,w_300,dpr_1/v1620207066/stella-prod-up-601f13ab9953831ff60d7ab2" />
 
 
   
