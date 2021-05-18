@@ -11,7 +11,7 @@
 
  
  <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/771529184127221760/844133098165895198/ezgif-3-c170bf6c5484.gif" />
+  <img align="right" height="270px" alt="GIF" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c6c2f0826f3a8e097d828541b2e87f38-1606936637/(29)/make-you-a-banner-for-your-osu-profile.gif" />
 
 
   
