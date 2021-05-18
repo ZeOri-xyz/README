@@ -11,7 +11,7 @@
 
  
  <div align="center">
-  <img align="right" height="150px" alt="GIF" src="https://66.media.tumblr.com/fccf661781e73082fd7d10d0cf272fa5/tumblr_ouhdpzUmXM1wojp74o1_400.gif" />
+  <img align="right" height="50px" alt="GIF" src="https://66.media.tumblr.com/fccf661781e73082fd7d10d0cf272fa5/tumblr_ouhdpzUmXM1wojp74o1_400.gif" />
 
 
   
