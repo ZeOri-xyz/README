@@ -29,5 +29,5 @@
 <br>
 
 ## [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/898184610125606982)](https://discord.com/users/898184610125606982)
-## ![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeOri-xyz&show_icons=true&theme=radical)
+## ![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeOri-xyz&show_icon=ture&theme=radical)
 ## ![GITHUB](https://github-readme-stats.vercel.app/api?username=ZeOri-xyz&count_private=true&show_icons=true&theme=radical)
