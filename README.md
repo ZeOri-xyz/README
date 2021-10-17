@@ -22,6 +22,10 @@
 - <a href="https://rangeblocker.xyz"> Founder Of RangeBots | Discord Advanced Bots </a> 🛡
 - ⭐ ZeOri | Developer Since <strong>2015</strong>
 
+
 ### ________________________________________________________________________________________________________________
 <br>
 
+  <a href="https://discord.com/users/898184610125606982">
+  <img src="https://lanyard-profile-readme.vercel.app/api/898184610125606982?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
