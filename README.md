@@ -26,6 +26,4 @@
 ### ________________________________________________________________________________________________________________
 <br>
 
-  <a href="https://discord.com/users/898184610125606982">
-  <img src="https://lanyard-profile-readme.vercel.app/api/898184610125606982?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/898184610125606982)](https://discord.com/users/898184610125606982)
