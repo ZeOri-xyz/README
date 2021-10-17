@@ -4,7 +4,7 @@
       <i>- If you can’t beat them, JOIN THEM. -</i>
    </h6>
 </p>
-
+![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeOri-xyz&show_icons=true&theme=radical)
  <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ZeOri-xyz" />
 </p>
