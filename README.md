@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/armfuldev">
-  <img src="https://www.armful.dev/assets/github-hero.png"/>
+    <a href="https://github.com/ZeOri-xyz">
+  <img src="![image](https://user-images.githubusercontent.com/84316967/198832916-45fc887b-9ced-4e7d-bdc1-5be95e3fc9ad.png)"/>
     </a>
 </p>
 
