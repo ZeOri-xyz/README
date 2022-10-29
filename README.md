@@ -12,7 +12,7 @@
 
 
 <p>
-  <h1 align="center"><b>Oh Hi, Welcome to ZeOri World. 🌀</b></h1>
+  <h1 align="center"><b>Welcome home my dear, you are arrived.</b></h1>
   <h6 align="center"> 
       <i>- If you can’t beat them, JOIN THEM. -</i>
    </h6>
