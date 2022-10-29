@@ -5,9 +5,6 @@
 </p>
 
 <p>
-   <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://media0.giphy.com/media/J13sDlhztnBVT2bHk7/200.gif?cid=95b279447b8d627196ccacd09b85cd79a4e548e36a73d969&rid=200.gif&ct=g"/>
-  </div>
   <h1 align="center"><b>Oh Hi, Welcome to ZeOri World. 🌀</b></h1>
   <h6 align="center"> 
       <i>- If you can’t beat them, JOIN THEM. -</i>
