@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/ZeOri-xyz">
-  <img src="https://cdn.discordapp.com/attachments/1033796756577718332/1035900796543455294/github-hero_3.png"/>
+  <img src="https://cdn.discordapp.com/attachments/1033796756577718332/1035901077213675581/github-hero_4.png"/>
     </a>
 </p>
 
