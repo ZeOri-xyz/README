@@ -29,7 +29,7 @@
 ### Information About Me:
 - 🌀 I'm JS & Lua Developer, currently working on <strong>RangeBlocker, And Ekoloko 2.0 Project</strong>🌴.
 - 👬 I'm working with the biggest YouTubers in Israel, and Editor. 🎥
-- 📬 For inquiries through Discord: <strong>ItsRealZeOri#6969</strong> 🌠.
+- 📬 For inquiries through Discord: <strong>RealZeOri#6969</strong> 🌠.
 - <a href="https://zeori.black"> Click here to get redirected to my website </a> 🗃️
 - <a href="https://rangeblocker.xyz"> Founder Of RangeBots | Discord Advanced Bots </a> 🛡
 - ⭐ ZeOri | Developer Since <strong>2015</strong>
