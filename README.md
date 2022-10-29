@@ -4,6 +4,13 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ZeOri-xyz">
+    <img src="https://discord.c99.nl/widget/theme-4/952562403751641178.png" alt="zeori"/>
+     </a>
+</p>
+
+
 <p>
   <h1 align="center"><b>Oh Hi, Welcome to ZeOri World. 🌀</b></h1>
   <h6 align="center"> 
